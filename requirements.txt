@@ -1,0 +1,12 @@
+# streamlit
+# openai
+
+
+streamlit
+openai
+pyannote.audio
+torch
+torchvision
+torchaudio
+librosa
+soundfile
